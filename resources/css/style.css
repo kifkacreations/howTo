@@ -1,0 +1,40 @@
+*{
+background-color: #E8CEBF;
+
+}
+
+h1 {
+    font-size: 4rem;
+    color: #FDF8F5;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #FDF8F5;
+
+}
+
+h3 {
+    font-size: 1.3rem;
+    color: #4F4846;
+}
+
+
+
+.ingridients,
+.steps {
+    background-color: #DDAF94;
+}
+
+#ukrainian_garlic_bread,
+#borsch,
+#potato_varenyky{
+    background-color: #266150;
+}
+
+button {
+    padding: 20px;
+}
+
+
