@@ -7,20 +7,24 @@ h1 {
     font-size: 4rem;
     color: #FDF8F5;
     font-weight: 600;
+    padding: 20px;
 }
 
 h2 {
     font-size: 1.5rem;
     color: #FDF8F5;
-
+    padding: 20px;
 }
 
 h3 {
     font-size: 1.3rem;
     color: #4F4846;
+    padding: 20px;
 }
 
-
+nav{
+    padding: 20px;
+}
 
 .ingridients,
 .steps {
