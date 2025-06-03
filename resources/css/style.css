@@ -8,6 +8,7 @@ h1 {
     color: #FDF8F5;
     font-weight: 600;
     padding: 20px;
+    text-align: center;
 }
 
 h2 {
@@ -20,10 +21,13 @@ h3 {
     font-size: 1.3rem;
     color: #4F4846;
     padding: 20px;
+    text-align: center;
 }
 
 nav{
     padding: 20px;
+    width: 50%;
+   margin: auto;
 }
 
 button {
@@ -34,6 +38,7 @@ button {
     border: 4px double #FDF8F5;
     border-radius: 10px;
     transition-duration: .3s;
+    margin: 5px;
 }
 button:hover {
     background-color: #FDF8F5;
@@ -60,4 +65,7 @@ button {
     padding: 20px;
 }
 
-
+img {
+    display: block ;
+    margin: 30px auto ;
+}
